@@ -70,6 +70,7 @@
 | [retina](https://www.ldoceonline.com/dictionary/retina) [🔊](https://www.ldoceonline.com/media/english/ameProns/retina.mp3) | ✅ ['retɪnə] | ❌ [ri'tina] |
 | [safari](https://www.ldoceonline.com/dictionary/safari) [🔊](https://www.ldoceonline.com/media/english/ameProns/safari1.mp3) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | [scheme](https://www.ldoceonline.com/dictionary/scheme) [🔊](https://www.ldoceonline.com/media/english/ameProns/scheme1.mp3) | ✅ [skiːm] | ❌ [s'kæmə] |
+| [snippet](https://www.ldoceonline.com/dictionary/snippet) [🔊](https://www.ldoceonline.com/media/english/ameProns/snippet.mp3)|  ✅ [snɪpɪt] | ❌ [snɪpet] |
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
 | sudo | ✅ soo-doo, pseudo | |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
