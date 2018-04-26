@@ -78,11 +78,14 @@
 | ---- | ------- | ------- |
 | [Angular](https://www.ldoceonline.com/dictionary/Angular) [🔊](https://www.ldoceonline.com/media/english/ameProns/angular.mp3) | ✅ ['æŋgjʊlə] | ❌ ['æŋɡələ; 'æŋdʒʌlə] |
 | [AJAX](https://www.ldoceonline.com/dictionary/AJAX) [🔊](https://www.ldoceonline.com/media/english/ameProns/lpd_ajax.mp3) | ✅ ['eidʒæks] | ❌ [ə'dʒʌks] |
+| [boilerplate](https://www.ldoceonline.com/dictionary/boilerplate) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld42boilerplate.mp3) | ✅ [ ˈbɔɪləpleɪt] |  |
 | [cache](https://www.ldoceonline.com/dictionary/cache) [🔊](https://www.ldoceonline.com/media/english/ameProns/cache.mp3) | ✅ [kæʃ] | ❌ [kætʃ] |
 | [chrome](https://www.ldoceonline.com/dictionary/cache) [🔊](https://www.ldoceonline.com/media/english/ameProns/chrome.mp3) | ✅ [krəʊm] | ❌ [kram] |
 | [height](https://www.ldoceonline.com/dictionary/height) [🔊](https://www.ldoceonline.com/media/english/ameProns/height.mp3) | ✅ [haɪt] | ❌ [heɪt] |
 | [hidden](https://www.ldoceonline.com/dictionary/hidden) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadhidden.mp3) | ✅ ['hɪdn] | ❌ ['haɪdn] |
 | [jpeg](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/jpeg) [🔊](https://dictionary.cambridge.org/zht/media/english/us_pron/c/cus/cus01/cus01083.mp3) | ✅ ['dʒeɪpeɡ] | ❌ [ˈdʒeɪˈpi:ˈdʒiː] |
+| JSON [🔊](https://www.youtube.com/watch?v=zhVdWQWKRqM) | ✅ [ˈdʒeɪsən] | ❌ [ˈdʒeɪsɑn] |
+| [length](https://www.ldoceonline.com/dictionary/length) [🔊](https://www.ldoceonline.com/media/english/ameProns/length.mp3) | ✅ [leŋθ] | ❌ [ləŋθ] |
 | [margin](https://www.ldoceonline.com/dictionary/margin) [🔊](https://www.ldoceonline.com/media/english/ameProns/margin.mp3) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
 | [retina](https://www.ldoceonline.com/dictionary/retina) [🔊](https://www.ldoceonline.com/media/english/ameProns/retina.mp3) | ✅ ['retɪnə] | ❌ [ri'tina] |
 | [safari](https://www.ldoceonline.com/dictionary/safari) [🔊](https://www.ldoceonline.com/media/english/ameProns/safari1.mp3) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
