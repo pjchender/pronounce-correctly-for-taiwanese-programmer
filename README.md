@@ -75,6 +75,7 @@
 | [resolve](https://www.ldoceonline.com/dictionary/resolve) [🔊](https://www.ldoceonline.com/media/english/ameProns/resolve1.mp3) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | [resort](https://www.ldoceonline.com/dictionary/resort) [🔊](https://www.ldoceonline.com/media/english/ameProns/resort1.mp3) | ✅ [rɪˈzɔ:t] | ❌ [rɪˈsɔ:t] |
 | [retina](https://www.ldoceonline.com/dictionary/retina) [🔊](https://www.ldoceonline.com/media/english/ameProns/retina.mp3) | ✅ ['retɪnə] | ❌ [ri'tina] |
+| [route](https://www.ldoceonline.com/dictionary/route) [🔊](https://www.ldoceonline.com/media/english/ameProns/route1.mp3) | ✅ [ruːt] |  |
 | [rust](https://www.ldoceonline.com/dictionary/rust)[🔊](https://www.ldoceonline.com/media/english/ameProns/rust1.mp3) | ✅ [rʌst] | ❌ [rust] |
 | [safari](https://www.ldoceonline.com/dictionary/safari) [🔊](https://www.ldoceonline.com/media/english/ameProns/safari1.mp3) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
 | [scheme](https://www.ldoceonline.com/dictionary/scheme) [🔊](https://www.ldoceonline.com/media/english/ameProns/scheme1.mp3) | ✅ [skiːm] | ❌ [s'kæmə] |
