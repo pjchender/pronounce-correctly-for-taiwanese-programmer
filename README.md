@@ -72,6 +72,8 @@
 | [putty](https://www.ldoceonline.com/dictionary/putty) [🔊](https://www.ldoceonline.com/media/english/ameProns/putty.mp3) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | [query](https://www.ldoceonline.com/dictionary/query) [🔊](https://www.ldoceonline.com/media/english/ameProns/query1.mp3) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | [Realm](https://www.ldoceonline.com/dictionary/realm) [🔊](https://www.ldoceonline.com/media/english/ameProns/realm.mp3) | ✅ [relm] | ❌ [riəlm] |
+| [record](https://www.ldoceonline.com/dictionary/record) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3record2.mp3) (v.)| ✅ [rɪˈkɔːrd] | ❌ [ˈrek.ɚd] |
+| [record](https://www.ldoceonline.com/dictionary/record) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3record.mp3) (n.)| ✅ [ˈrek.ɚd] | ❌  [rɪˈkɔːrd] |
 | [resolve](https://www.ldoceonline.com/dictionary/resolve) [🔊](https://www.ldoceonline.com/media/english/ameProns/resolve1.mp3) | ✅ [rɪ'zɒlvd] | ❌ [rɪ'səʊvd] |
 | [resort](https://www.ldoceonline.com/dictionary/resort) [🔊](https://www.ldoceonline.com/media/english/ameProns/resort1.mp3) | ✅ [rɪˈzɔ:t] | ❌ [rɪˈsɔ:t] |
 | [retina](https://www.ldoceonline.com/dictionary/retina) [🔊](https://www.ldoceonline.com/media/english/ameProns/retina.mp3) | ✅ ['retɪnə] | ❌ [ri'tina] |
