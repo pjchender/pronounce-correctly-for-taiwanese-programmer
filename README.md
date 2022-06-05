@@ -104,7 +104,6 @@
 | [Redux](https://redux.js.org/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/re/redux_en_us_1.mp3) | ✅ [ˈɹiːd ˌʌks] | |
 | [verbose](https://www.ldoceonline.com/dictionary/verbose) [🔊](https://www.ldoceonline.com/media/english/breProns/verbose0205.mp3) | ✅ [ˌvɜ˞ː ˈboʊs] | |
 
-
 ## Change Log:
 - `~ Latest`：持續更新工作上遇到之單字。
 - `2020-05-25`：新增單字，不再區分單字類別。
