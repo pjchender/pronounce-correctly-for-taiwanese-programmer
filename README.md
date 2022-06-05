@@ -92,6 +92,7 @@
 | [width](https://www.ldoceonline.com/dictionary/width) [🔊](https://www.ldoceonline.com/media/english/ameProns/width.mp3) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | [wrapper](https://www.ldoceonline.com/dictionary/wrapper) [🔊](https://www.ldoceonline.com/media/english/ameProns/wrapper.mp3) | ✅ [ˈræp.ɚ] | ❌ [ˈrap.ɚ] |
 | [YouTube](https://www.ldoceonline.com/dictionary/youtube) [🔊](https://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
+[pseudocode](https://www.ldoceonline.com/dictionary/pseudo) [🔊](https://www.youtube.com/watch?v=7SrE4ADuik0) | ✅ [ˈso͞odōˌkōd] | ❌ [] |
 
 ## Change Log:
 
