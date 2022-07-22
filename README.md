@@ -80,7 +80,7 @@
 | [route](https://www.ldoceonline.com/dictionary/route) [🔊](https://www.ldoceonline.com/media/english/ameProns/route1.mp3) | ✅ [ruːt] |  |
 | [rust](https://www.ldoceonline.com/dictionary/rust)[🔊](https://www.ldoceonline.com/media/english/ameProns/rust1.mp3) | ✅ [rʌst] | ❌ [rust] |
 | [safari](https://www.ldoceonline.com/dictionary/safari) [🔊](https://www.ldoceonline.com/media/english/ameProns/safari1.mp3) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
-| [scheme](https://www.ldoceonline.com/dictionary/scheme) [🔊](https://www.ldoceonline.com/media/english/ameProns/scheme1.mp3) | ✅ [skiːm] | ❌ [s'kæmə] |
+| [schema](https://www.ldoceonline.com/dictionary/schema) [🔊](https://www.youtube.com/watch?v=9zvXH8Rzk7I) | ✅ [s'kæmə]  | ❌ [skiːm] |
 | [snippet](https://www.ldoceonline.com/dictionary/snippet) [🔊](https://www.ldoceonline.com/media/english/ameProns/snippet.mp3)|  ✅ [snɪpɪt] | ❌ [snɪpet] |
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
 | sudo | ✅ soo-doo, pseudo | |
