@@ -92,6 +92,7 @@
 | [width](https://www.ldoceonline.com/dictionary/width) [🔊](https://www.ldoceonline.com/media/english/ameProns/width.mp3) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | [wrapper](https://www.ldoceonline.com/dictionary/wrapper) [🔊](https://www.ldoceonline.com/media/english/ameProns/wrapper.mp3) | ✅ [ˈræp.ɚ] | ❌ [ˈrap.ɚ] |
 | [YouTube](https://www.ldoceonline.com/dictionary/youtube) [🔊](https://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
+| [Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes) [🔊](https://www.youtube.com/watch?v=kTzuEB82hFs&t=16s) | ✅ [ˈkuːb ə˞ ˌnet iz] | |
 
 
 ## Change Log:
