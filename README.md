@@ -37,7 +37,7 @@
 | [chrome](https://www.ldoceonline.com/dictionary/chrome) [🔊](https://www.ldoceonline.com/media/english/ameProns/chrome.mp3) | ✅ [krəʊm] | ❌ [kram] |
 | [Daemon](https://www.ldoceonline.com/dictionary/Daemon) [🔊](https://www.ldoceonline.com/media/english/ameProns/daemon.mp3) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | [digest](https://www.ldoceonline.com/dictionary/digest) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3digest.mp3) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
-| [Django](https://zh.wikipedia.org/zh-tw/Django) [🔊](https://www.google.com/search?q=django+pronunciation&oq=django+pronunciation&aqs=chrome.0.69i59j0i512l2j0i8i30l5j0i8i15i30j0i5i30.6418j0j7&sourceid=chrome&ie=UTF-8) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
+| [Django](https://www.djangoproject.com/start/overview/) [🔊](https://www.google.com/search?q=django+pronunciation&oq=django+pronunciation&aqs=chrome.0.69i59j0i512l2j0i8i30l5j0i8i15i30j0i5i30.6418j0j7&sourceid=chrome&ie=UTF-8) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
 | [doc](https://www.ldoceonline.com/dictionary/doc) [🔊](https://www.ldoceonline.com/media/english/ameProns/doc.mp3) | ✅ [dɒk]| ❌ [daʊk] |
 | [facade](https://www.ldoceonline.com/dictionary/facade) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | [fedora](https://www.ldoceonline.com/dictionary/fedora) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
