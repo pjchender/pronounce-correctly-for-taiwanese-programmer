@@ -86,12 +86,13 @@
 | sudo | ✅ soo-doo, pseudo | |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
 | [typical](https://www.ldoceonline.com/dictionary/typical) [🔊](https://www.ldoceonline.com/media/english/ameProns/typical.mp3) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
-| Ubuntu | ✅ ooh-bun-too | ❌ [juː'bʊntʊ] |
+| Ubuntu | ✅ [ˌuː ˈbuːt ˌuː] | ❌ [juː'bʊntʊ] |
 | [variable](https://www.ldoceonline.com/dictionary/vairable) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ view | ❌ [v'ju:i] |
 | [width](https://www.ldoceonline.com/dictionary/width) [🔊](https://www.ldoceonline.com/media/english/ameProns/width.mp3) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | [wrapper](https://www.ldoceonline.com/dictionary/wrapper) [🔊](https://www.ldoceonline.com/media/english/ameProns/wrapper.mp3) | ✅ [ˈræp.ɚ] | ❌ [ˈrap.ɚ] |
 | [YouTube](https://www.ldoceonline.com/dictionary/youtube) [🔊](https://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
+
 
 ## Change Log:
 
