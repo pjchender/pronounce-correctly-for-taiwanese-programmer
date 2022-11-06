@@ -98,6 +98,8 @@
 | [Grafana](https://grafana.com/docs/grafana/latest/introduction/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/gr/grafana_en_us_1.mp3) | ✅ [gɹə ˈfɑːn ˌɑː] | |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/pr/prometheus_en_us_1.mp3) | ✅ [pɹə ˈmiːθ ˌiː əs] | |
 | [Redux](https://redux.js.org/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/re/redux_en_us_1.mp3) | ✅ [ˈɹiːd ˌʌks] | |
+| [verbose](https://www.ldoceonline.com/dictionary/verbose) [🔊](https://www.ldoceonline.com/media/english/breProns/verbose0205.mp3?version=1.2.57) | ✅ [ˌvɜ˞ː ˈboʊs] | |
+
 
 ## Change Log:
 
