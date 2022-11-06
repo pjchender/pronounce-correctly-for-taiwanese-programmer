@@ -83,7 +83,7 @@
 | [schema](https://www.ldoceonline.com/dictionary/schema) [🔊](https://www.ldoceonline.com/media/english/ameProns/schema.mp3?version=1.2.57) | ✅ [ˈskiːmə]  | ❌ [skiːm] |
 | [snippet](https://www.ldoceonline.com/dictionary/snippet) [🔊](https://www.ldoceonline.com/media/english/ameProns/snippet.mp3)|  ✅ [snɪpɪt] | ❌ [snɪpet] |
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
-| sudo | ✅ soo-doo, pseudo | |
+| [sudo](https://www.linux.com/training-tutorials/linux-101-introduction-sudo/) | ✅ [ˈsuːd uː]| |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
 | [typical](https://www.ldoceonline.com/dictionary/typical) [🔊](https://www.ldoceonline.com/media/english/ameProns/typical.mp3) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu | ✅ [ˌuː ˈbuːt ˌuː] | ❌ [juː'bʊntʊ] |
