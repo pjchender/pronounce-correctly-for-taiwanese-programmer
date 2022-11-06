@@ -44,7 +44,7 @@
 | [Git](https://www.ldoceonline.com/dictionary/Git) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | [GNU](https://www.ldoceonline.com/dictionary/gnu) [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
 | [GUI](https://www.ldoceonline.com/dictionary/gui) [🔊](https://www.ldoceonline.com/media/english/breProns/ld42gui.mp3) | ✅ [ˈɡui] | |
-| Haskell [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
+| [Haskell](https://wiki.haskell.org/Introduction) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/ha/haskell_en_us_1.mp3) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
 | [height](https://www.ldoceonline.com/dictionary/height) [🔊](https://www.ldoceonline.com/media/english/ameProns/height.mp3) | ✅ [haɪt] | ❌ [heɪt] |
 | [hidden](https://www.ldoceonline.com/dictionary/hidden) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadhidden.mp3) | ✅ ['hɪdn] | ❌ ['haɪdn] |
 | [image](https://www.ldoceonline.com/dictionary/image) [🔊](https://www.ldoceonline.com/media/english/ameProns/image.mp3) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
