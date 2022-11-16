@@ -42,6 +42,7 @@
 | [doc](https://www.ldoceonline.com/dictionary/doc) [🔊](https://www.ldoceonline.com/media/english/ameProns/doc.mp3) | ✅ [dɒk]| ❌ [daʊk] |
 | [facade](https://www.ldoceonline.com/dictionary/facade) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | [fedora](https://www.ldoceonline.com/dictionary/fedora) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
+| font [🔊](https://www.ldoceonline.com/media/english/ameProns/font.mp3?version=1.2.58) | ✅ [fɑːnt] | ❌ [font] |
 | [Git](https://www.ldoceonline.com/dictionary/Git) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | [GNU](https://www.ldoceonline.com/dictionary/gnu) [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
 | [GUI](https://www.ldoceonline.com/dictionary/gui) [🔊](https://www.ldoceonline.com/media/english/breProns/ld42gui.mp3) | ✅ [ˈɡui] | |
