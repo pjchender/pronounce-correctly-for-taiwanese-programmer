@@ -12,6 +12,7 @@
 
 工程師容易發音錯誤的單詞（點擊喇叭可收聽正確讀音）
 
+開新分頁收聽： 使用 Ctrl / Command + 鼠標左鍵點擊喇叭。
 ### General Vocabulary
 
 | 單詞  | 正確發音 | 錯誤發音 |
@@ -41,10 +42,11 @@
 | [doc](https://www.ldoceonline.com/dictionary/doc) [🔊](https://www.ldoceonline.com/media/english/ameProns/doc.mp3) | ✅ [dɒk]| ❌ [daʊk] |
 | [facade](https://www.ldoceonline.com/dictionary/facade) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | [fedora](https://www.ldoceonline.com/dictionary/fedora) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
+| font [🔊](https://www.ldoceonline.com/media/english/ameProns/font.mp3?version=1.2.58) | ✅ [fɑːnt] | ❌ [font] |
 | [Git](https://www.ldoceonline.com/dictionary/Git) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | [GNU](https://www.ldoceonline.com/dictionary/gnu) [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
 | [GUI](https://www.ldoceonline.com/dictionary/gui) [🔊](https://www.ldoceonline.com/media/english/breProns/ld42gui.mp3) | ✅ [ˈɡui] | |
-| Haskell [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
+| [Haskell](https://wiki.haskell.org/Introduction) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/ha/haskell_en_us_1.mp3) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
 | [height](https://www.ldoceonline.com/dictionary/height) [🔊](https://www.ldoceonline.com/media/english/ameProns/height.mp3) | ✅ [haɪt] | ❌ [heɪt] |
 | [hidden](https://www.ldoceonline.com/dictionary/hidden) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadhidden.mp3) | ✅ ['hɪdn] | ❌ ['haɪdn] |
 | [image](https://www.ldoceonline.com/dictionary/image) [🔊](https://www.ldoceonline.com/media/english/ameProns/image.mp3) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
@@ -80,19 +82,26 @@
 | [route](https://www.ldoceonline.com/dictionary/route) [🔊](https://www.ldoceonline.com/media/english/ameProns/route1.mp3) | ✅ [ruːt] |  |
 | [rust](https://www.ldoceonline.com/dictionary/rust)[🔊](https://www.ldoceonline.com/media/english/ameProns/rust1.mp3) | ✅ [rʌst] | ❌ [rust] |
 | [safari](https://www.ldoceonline.com/dictionary/safari) [🔊](https://www.ldoceonline.com/media/english/ameProns/safari1.mp3) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
-| [scheme](https://www.ldoceonline.com/dictionary/scheme) [🔊](https://www.ldoceonline.com/media/english/ameProns/scheme1.mp3) | ✅ [skiːm] | ❌ [s'kæmə] |
+| [schema](https://www.ldoceonline.com/dictionary/schema) [🔊](https://www.ldoceonline.com/media/english/ameProns/schema.mp3?version=1.2.57) | ✅ [ˈskiːmə]  | ❌ [skiːm] |
 | [snippet](https://www.ldoceonline.com/dictionary/snippet) [🔊](https://www.ldoceonline.com/media/english/ameProns/snippet.mp3)|  ✅ [snɪpɪt] | ❌ [snɪpet] |
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
-| sudo | ✅ soo-doo, pseudo | |
+| [sudo](https://www.linux.com/training-tutorials/linux-101-introduction-sudo/) | ✅ [ˈsuːd uː]| |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
 | [typical](https://www.ldoceonline.com/dictionary/typical) [🔊](https://www.ldoceonline.com/media/english/ameProns/typical.mp3) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
-| Ubuntu | ✅ ooh-bun-too | ❌ [juː'bʊntʊ] |
+| Ubuntu | ✅ [ˌuː ˈbuːt ˌuː] | ❌ [juː'bʊntʊ] |
 | [variable](https://www.ldoceonline.com/dictionary/vairable) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
-| vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ view | ❌ [v'ju:i] |
+| [vue](https://vuejs.org/guide/introduction.html#what-is-vue) [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [ˈvjuː] | ❌ [v'ju:i] |
 | [width](https://www.ldoceonline.com/dictionary/width) [🔊](https://www.ldoceonline.com/media/english/ameProns/width.mp3) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | [wrapper](https://www.ldoceonline.com/dictionary/wrapper) [🔊](https://www.ldoceonline.com/media/english/ameProns/wrapper.mp3) | ✅ [ˈræp.ɚ] | ❌ [ˈrap.ɚ] |
 | [YouTube](https://www.ldoceonline.com/dictionary/youtube) [🔊](https://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
 [pseudocode](https://www.ldoceonline.com/dictionary/pseudo) [🔊](https://www.youtube.com/watch?v=7SrE4ADuik0) | ✅ [ˈso͞odōˌkōd] | ❌ [] |
+| [Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes) [🔊](https://www.youtube.com/watch?v=kTzuEB82hFs&t=16s) | ✅ [ˈkuːb ə˞ ˌnet iz] | |
+| [Elasticsearch](https://www.elastic.co/what-is/elasticsearch) [🔊](https://www.youtube.com/watch?v=z71Tl2ikwik) | ✅ [] | |
+| [Grafana](https://grafana.com/docs/grafana/latest/introduction/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/gr/grafana_en_us_1.mp3) | ✅ [gɹə ˈfɑːn ˌɑː] | |
+| [Prometheus](https://prometheus.io/docs/introduction/overview/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/pr/prometheus_en_us_1.mp3) | ✅ [pɹə ˈmiːθ ˌiː əs] | |
+| [Redux](https://redux.js.org/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/re/redux_en_us_1.mp3) | ✅ [ˈɹiːd ˌʌks] | |
+| [verbose](https://www.ldoceonline.com/dictionary/verbose) [🔊](https://www.ldoceonline.com/media/english/breProns/verbose0205.mp3?version=1.2.57) | ✅ [ˌvɜ˞ː ˈboʊs] | |
+
 
 ## Change Log:
 
