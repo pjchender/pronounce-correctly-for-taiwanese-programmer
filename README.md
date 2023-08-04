@@ -87,6 +87,7 @@
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
 | [sudo](https://www.linux.com/training-tutorials/linux-101-introduction-sudo/) | ✅ [ˈsuːd uː]| |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
+| [swagger](https://swagger.io/) [🔊](https://www.google.com/search?q=swagger+pronunciation&sxsrf=AB5stBhQ4F1ElPZXyB9h3XXfyn6_DnYCfQ%3A1691164857296&ei=uSDNZKLZEcuNoAT8y7eoDA&ved=0ahUKEwjimc2EsMOAAxXLBogKHfzlDcUQ4dUDCA8&oq=swagger+pronunciation&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXN3YWdnZXIgcHJvbnVuY2lhdGlvbkgAUABYAHAAeAGQAQCYAQCgAQCqAQC4AQzIAQDiAwQYACBB&sclient=gws-wiz-serp) | ✅ [ˈswæg.ɚ] | ❌ [ˈswa.ɚ] |
 | [typical](https://www.ldoceonline.com/dictionary/typical) [🔊](https://www.ldoceonline.com/media/english/ameProns/typical.mp3) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu | ✅ [ˌuː ˈbuːt ˌuː] | ❌ [juː'bʊntʊ] |
 | [variable](https://www.ldoceonline.com/dictionary/vairable) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
@@ -94,7 +95,7 @@
 | [width](https://www.ldoceonline.com/dictionary/width) [🔊](https://www.ldoceonline.com/media/english/ameProns/width.mp3) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | [wrapper](https://www.ldoceonline.com/dictionary/wrapper) [🔊](https://www.ldoceonline.com/media/english/ameProns/wrapper.mp3) | ✅ [ˈræp.ɚ] | ❌ [ˈrap.ɚ] |
 | [YouTube](https://www.ldoceonline.com/dictionary/youtube) [🔊](https://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
-[pseudocode](https://www.ldoceonline.com/dictionary/pseudo) [🔊](https://www.youtube.com/watch?v=7SrE4ADuik0) | ✅ [ˈso͞odōˌkōd] | ❌ [] |
+[pseudocode](https://www.ldoceonline.com/dictionary/pseudo) [🔊](https://www.youtube.com/watch?v=7SrE4ADuik0) | ✅ [ˈso͞odōˌkōd] | |
 | [Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes) [🔊](https://www.youtube.com/watch?v=kTzuEB82hFs&t=16s) | ✅ [ˈkuːb ə˞ ˌnet iz] | |
 | [Elasticsearch](https://www.elastic.co/what-is/elasticsearch) [🔊](https://www.youtube.com/watch?v=z71Tl2ikwik) | ✅ [] | |
 | [Grafana](https://grafana.com/docs/grafana/latest/introduction/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/gr/grafana_en_us_1.mp3) | ✅ [gɹə ˈfɑːn ˌɑː] | |
