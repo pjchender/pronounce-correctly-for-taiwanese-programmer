@@ -38,7 +38,7 @@
 | [chrome](https://www.ldoceonline.com/dictionary/chrome) [🔊](https://www.ldoceonline.com/media/english/ameProns/chrome.mp3) | ✅ [krəʊm] | ❌ [kram] |
 | [Daemon](https://www.ldoceonline.com/dictionary/Daemon) [🔊](https://www.ldoceonline.com/media/english/ameProns/daemon.mp3) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | [digest](https://www.ldoceonline.com/dictionary/digest) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3digest.mp3) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
-| [Django](https://www.djangoproject.com/start/overview/) [🔊](https://www.google.com/search?q=django+pronunciation&sxsrf=ALiCzsZzksRFniiyFpwrCBPmruIjBSVmqg%3A1654444456635&ei=qNGcYrm5Joyi0gTd-qqoAQ&oq=Django+pron&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEIAEMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgQIABAeMgYIABAeEA86BwgAEEcQsAM6BAgAEEM6CgguELEDEIMBEENKBAhBGABKBAhGGABQ_gJYjDJguUBoAXABeACAAVOIAZYCkgEBNZgBAKABAcgBCsABAQ&sclient=gws-wiz) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
+| [Django](https://www.djangoproject.com/start/overview/) [🔊](https://www.google.com/search?q=django+pronunciation) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
 | [doc](https://www.ldoceonline.com/dictionary/doc) [🔊](https://www.ldoceonline.com/media/english/ameProns/doc.mp3) | ✅ [dɒk]| ❌ [daʊk] |
 | [facade](https://www.ldoceonline.com/dictionary/facade) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | [fedora](https://www.ldoceonline.com/dictionary/fedora) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
@@ -87,7 +87,7 @@
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
 | [sudo](https://www.linux.com/training-tutorials/linux-101-introduction-sudo/) | ✅ [ˈsuːd uː]| |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
-| [swagger](https://swagger.io/) [🔊](https://www.google.com/search?q=swagger+pronunciation&sxsrf=AB5stBhQ4F1ElPZXyB9h3XXfyn6_DnYCfQ%3A1691164857296&ei=uSDNZKLZEcuNoAT8y7eoDA&ved=0ahUKEwjimc2EsMOAAxXLBogKHfzlDcUQ4dUDCA8&oq=swagger+pronunciation&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXN3YWdnZXIgcHJvbnVuY2lhdGlvbkgAUABYAHAAeAGQAQCYAQCgAQCqAQC4AQzIAQDiAwQYACBB&sclient=gws-wiz-serp) | ✅ [ˈswæg.ɚ] | ❌ [ˈswa.ɚ] |
+| [swagger](https://swagger.io/) [🔊](https://www.google.com/search?q=swagger+pronunciation) | ✅ [ˈswæg.ɚ] | ❌ [ˈswa.ɚ] |
 | [typical](https://www.ldoceonline.com/dictionary/typical) [🔊](https://www.ldoceonline.com/media/english/ameProns/typical.mp3) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu | ✅ [ˌuː ˈbuːt ˌuː] | ❌ [juː'bʊntʊ] |
 | [variable](https://www.ldoceonline.com/dictionary/vairable) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
