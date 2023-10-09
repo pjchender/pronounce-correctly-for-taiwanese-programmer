@@ -38,7 +38,7 @@
 | [chrome](https://www.ldoceonline.com/dictionary/chrome) [🔊](https://www.ldoceonline.com/media/english/ameProns/chrome.mp3) | ✅ [krəʊm] | ❌ [kram] |
 | [Daemon](https://www.ldoceonline.com/dictionary/Daemon) [🔊](https://www.ldoceonline.com/media/english/ameProns/daemon.mp3) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | [digest](https://www.ldoceonline.com/dictionary/digest) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3digest.mp3) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
-| [Django](https://www.djangoproject.com/start/overview/) [🔊](https://www.google.com/search?q=django+pronunciation&oq=django+pronunciation&aqs=chrome.0.69i59j0i512l2j0i8i30l5j0i8i15i30j0i5i30.6418j0j7&sourceid=chrome&ie=UTF-8) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
+| [Django](https://www.djangoproject.com/start/overview/) [🔊](https://www.google.com/search?q=django+pronunciation) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
 | [doc](https://www.ldoceonline.com/dictionary/doc) [🔊](https://www.ldoceonline.com/media/english/ameProns/doc.mp3) | ✅ [dɒk]| ❌ [daʊk] |
 | [facade](https://www.ldoceonline.com/dictionary/facade) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | [fedora](https://www.ldoceonline.com/dictionary/fedora) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
@@ -87,6 +87,7 @@
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
 | [sudo](https://www.linux.com/training-tutorials/linux-101-introduction-sudo/) | ✅ [ˈsuːd uː]| |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
+| [swagger](https://swagger.io/) [🔊](https://www.google.com/search?q=swagger+pronunciation) | ✅ [ˈswæg.ɚ] | ❌ [ˈswa.ɚ] |
 | [typical](https://www.ldoceonline.com/dictionary/typical) [🔊](https://www.ldoceonline.com/media/english/ameProns/typical.mp3) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu | ✅ [ˌuː ˈbuːt ˌuː] | ❌ [juː'bʊntʊ] |
 | [variable](https://www.ldoceonline.com/dictionary/vairable) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
@@ -94,6 +95,7 @@
 | [width](https://www.ldoceonline.com/dictionary/width) [🔊](https://www.ldoceonline.com/media/english/ameProns/width.mp3) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | [wrapper](https://www.ldoceonline.com/dictionary/wrapper) [🔊](https://www.ldoceonline.com/media/english/ameProns/wrapper.mp3) | ✅ [ˈræp.ɚ] | ❌ [ˈrap.ɚ] |
 | [YouTube](https://www.ldoceonline.com/dictionary/youtube) [🔊](https://www.ldoceonline.com/media/english/ameProns/lpd_youtube.mp3) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
+[pseudocode](https://www.ldoceonline.com/dictionary/pseudo) [🔊](https://www.youtube.com/watch?v=7SrE4ADuik0) | ✅ [ˈso͞odōˌkōd] | |
 | [Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes) [🔊](https://www.youtube.com/watch?v=kTzuEB82hFs&t=16s) | ✅ [ˈkuːb ə˞ ˌnet iz] | |
 | [Elasticsearch](https://www.elastic.co/what-is/elasticsearch) [🔊](https://www.youtube.com/watch?v=z71Tl2ikwik) | ✅ [] | |
 | [Grafana](https://grafana.com/docs/grafana/latest/introduction/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/gr/grafana_en_us_1.mp3) | ✅ [gɹə ˈfɑːn ˌɑː] | |
