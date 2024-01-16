@@ -82,7 +82,7 @@
 | [route](https://www.ldoceonline.com/dictionary/route) [🔊](https://www.ldoceonline.com/media/english/ameProns/route1.mp3) | ✅ [ruːt] |  |
 | [rust](https://www.ldoceonline.com/dictionary/rust)[🔊](https://www.ldoceonline.com/media/english/ameProns/rust1.mp3) | ✅ [rʌst] | ❌ [rust] |
 | [safari](https://www.ldoceonline.com/dictionary/safari) [🔊](https://www.ldoceonline.com/media/english/ameProns/safari1.mp3) | ✅ [sə'fɑːrɪ] | ❌ [sæfərɪ] |
-| [schema](https://www.ldoceonline.com/dictionary/schema) [🔊](https://www.ldoceonline.com/media/english/ameProns/schema.mp3?version=1.2.57) | ✅ [ˈskiːmə]  | ❌ [skiːm] |
+| [schema](https://www.ldoceonline.com/dictionary/schema) [🔊](https://www.ldoceonline.com/media/english/ameProns/schema.mp3) | ✅ [ˈskiːmə]  | ❌ [skiːm] |
 | [snippet](https://www.ldoceonline.com/dictionary/snippet) [🔊](https://www.ldoceonline.com/media/english/ameProns/snippet.mp3)|  ✅ [snɪpɪt] | ❌ [snɪpet] |
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
 | [sudo](https://www.linux.com/training-tutorials/linux-101-introduction-sudo/) | ✅ [ˈsuːd uː]| |
@@ -105,7 +105,7 @@
 
 
 ## Change Log:
-
+- `~ Latest`：持續更新工作上遇到之單字。
 - `2020-05-25`：新增單字，不再區分單字類別。
 - `2018-03-14`：將所有單字根據類別分類。
 - `2018-03-01`：原專案發音來源為中國[有道 youdao](https://www.youdao.com/)，只要給單字進去都會給出發音，類似 google 翻譯，因此點擊單字右方的喇吧不完全是正確發音（多數正確）。本文件字典和發音來源主要來自[朗文字典 Longman](https://www.ldoceonline.com/) 搭配 [劍橋字典 Cambridge](https://dictionary.cambridge.org/zht/) 和[維基百科 Wikipedia](https://www.wikipedia.org/)等其他資源，並且轉換為正體中文。
