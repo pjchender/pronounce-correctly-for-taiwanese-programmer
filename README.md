@@ -40,6 +40,7 @@
 | [digest](https://www.ldoceonline.com/dictionary/digest) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3digest.mp3) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
 | [Django](https://www.djangoproject.com/start/overview/) [🔊](https://www.google.com/search?q=django+pronunciation) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
 | [doc](https://www.ldoceonline.com/dictionary/doc) [🔊](https://www.ldoceonline.com/media/english/ameProns/doc.mp3) | ✅ [dɒk]| ❌ [daʊk] |
+| [error](https://www.ldoceonline.com/dictionary/error) [🔊](https://www.ldoceonline.com/media/english/ameProns/error.mp3?version=1.2.68) | ✅ [ˈerər] | ❌ [ērər] |
 | [facade](https://www.ldoceonline.com/dictionary/facade) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | [fedora](https://www.ldoceonline.com/dictionary/fedora) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
 | font [🔊](https://www.ldoceonline.com/media/english/ameProns/font.mp3?version=1.2.58) | ✅ [fɑːnt] | ❌ [font] |
