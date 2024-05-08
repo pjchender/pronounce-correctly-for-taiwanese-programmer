@@ -29,7 +29,7 @@
 | [archive](https://www.ldoceonline.com/dictionary/archive) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadarchive.mp3) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | [array](https://www.ldoceonline.com/dictionary/array) [🔊](https://www.ldoceonline.com/media/english/ameProns/array1.mp3) | ✅ [ə'rei] | ❌ [æ'rei] |
 | [aspect](https://www.ldoceonline.com/dictionary/aspect) [🔊](https://www.ldoceonline.com/media/english/ameProns/aspect.mp3) | ✅ ['æspekt] | ❌ [ə'spekt] |
-| [avatar](https://www.ldoceonline.com/dictionary/avatar) [🔊](https://www.ldoceonline.com/media/english/ameProns/avatar.mp3) | ✅ ['ævətɑː] | ❌ [ə'vʌtɑ] |
+| [asynchronous](https://www.ldoceonline.com/dictionary/asynchronous) [🔊](https://www.ldoceonline.com/media/english/ameProns/asynchronous1004a.mp3?version=1.2.68) | ✅ [eɪˈsɪŋkrənəs] | ❌ [əˈsɪŋkrənəs] |
 | [Azure](https://www.ldoceonline.com/dictionary/Azure) [🔊](https://www.ldoceonline.com/media/english/ameProns/azure.mp3)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | [bind](https://www.ldoceonline.com/dictionary/bind) [🔊](https://www.ldoceonline.com/media/english/ameProns/bind1.mp3) | ✅ [baɪnd] | ❌ [bɪnd] |
 | [boilerplate](https://www.ldoceonline.com/dictionary/boilerplate) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld42boilerplate.mp3) | ✅ [ ˈbɔɪləpleɪt] |  |
