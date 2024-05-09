@@ -29,7 +29,7 @@
 | [archive](https://www.ldoceonline.com/dictionary/archive) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadarchive.mp3) | ✅ ['ɑːkaɪv] | ❌ ['ətʃɪv] |
 | [array](https://www.ldoceonline.com/dictionary/array) [🔊](https://www.ldoceonline.com/media/english/ameProns/array1.mp3) | ✅ [ə'rei] | ❌ [æ'rei] |
 | [aspect](https://www.ldoceonline.com/dictionary/aspect) [🔊](https://www.ldoceonline.com/media/english/ameProns/aspect.mp3) | ✅ ['æspekt] | ❌ [ə'spekt] |
-| [asynchronous](https://www.ldoceonline.com/dictionary/asynchronous) [🔊](https://www.ldoceonline.com/media/english/ameProns/asynchronous1004a.mp3?version=1.2.68) | ✅ [eɪˈsɪŋkrənəs] | ❌ [əˈsɪŋkrənəs] |
+| [asynchronous](https://www.ldoceonline.com/dictionary/asynchronous) [🔊](https://www.ldoceonline.com/media/english/ameProns/asynchronous1004a.mp3) | ✅ [eɪˈsɪŋkrənəs] | ❌ [əˈsɪŋkrənəs] |
 | [Azure](https://www.ldoceonline.com/dictionary/Azure) [🔊](https://www.ldoceonline.com/media/english/ameProns/azure.mp3)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | [bind](https://www.ldoceonline.com/dictionary/bind) [🔊](https://www.ldoceonline.com/media/english/ameProns/bind1.mp3) | ✅ [baɪnd] | ❌ [bɪnd] |
 | [boilerplate](https://www.ldoceonline.com/dictionary/boilerplate) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld42boilerplate.mp3) | ✅ [ ˈbɔɪləpleɪt] |  |
@@ -40,10 +40,10 @@
 | [digest](https://www.ldoceonline.com/dictionary/digest) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3digest.mp3) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
 | [Django](https://www.djangoproject.com/start/overview/) [🔊](https://www.google.com/search?q=django+pronunciation) | ✅ [ˈdʒæŋɡoʊ], JANG-goh| ❌ [diˈdʒæŋɡoʊ] |
 | [doc](https://www.ldoceonline.com/dictionary/doc) [🔊](https://www.ldoceonline.com/media/english/ameProns/doc.mp3) | ✅ [dɒk]| ❌ [daʊk] |
-| [error](https://www.ldoceonline.com/dictionary/error) [🔊](https://www.ldoceonline.com/media/english/ameProns/error.mp3?version=1.2.68) | ✅ [ˈerər] | ❌ [ērər] |
+| [error](https://www.ldoceonline.com/dictionary/error) [🔊](https://www.ldoceonline.com/media/english/ameProns/error.mp3) | ✅ [ˈerər] | ❌ [ērər] |
 | [facade](https://www.ldoceonline.com/dictionary/facade) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadfacade.mp3) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | [fedora](https://www.ldoceonline.com/dictionary/fedora) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41fedora.mp3) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
-| font [🔊](https://www.ldoceonline.com/media/english/ameProns/font.mp3?version=1.2.58) | ✅ [fɑːnt] | ❌ [font] |
+| font [🔊](https://www.ldoceonline.com/media/english/ameProns/font.mp3) | ✅ [fɑːnt] | ❌ [font] |
 | [Git](https://www.ldoceonline.com/dictionary/Git) [🔊](https://www.ldoceonline.com/media/english/ameProns/ld41git.mp3) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | [GNU](https://www.ldoceonline.com/dictionary/gnu) [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
 | [GUI](https://www.ldoceonline.com/dictionary/gui) [🔊](https://www.ldoceonline.com/media/english/breProns/ld42gui.mp3) | ✅ [ˈɡui] | |
@@ -102,7 +102,7 @@
 | [Grafana](https://grafana.com/docs/grafana/latest/introduction/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/gr/grafana_en_us_1.mp3) | ✅ [gɹə ˈfɑːn ˌɑː] | |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/pr/prometheus_en_us_1.mp3) | ✅ [pɹə ˈmiːθ ˌiː əs] | |
 | [Redux](https://redux.js.org/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/re/redux_en_us_1.mp3) | ✅ [ˈɹiːd ˌʌks] | |
-| [verbose](https://www.ldoceonline.com/dictionary/verbose) [🔊](https://www.ldoceonline.com/media/english/breProns/verbose0205.mp3?version=1.2.57) | ✅ [ˌvɜ˞ː ˈboʊs] | |
+| [verbose](https://www.ldoceonline.com/dictionary/verbose) [🔊](https://www.ldoceonline.com/media/english/breProns/verbose0205.mp3) | ✅ [ˌvɜ˞ː ˈboʊs] | |
 
 
 ## Change Log:
