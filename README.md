@@ -50,6 +50,7 @@
 | [Haskell](https://wiki.haskell.org/Introduction) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/ha/haskell_en_us_1.mp3) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
 | [height](https://www.ldoceonline.com/dictionary/height) [🔊](https://www.ldoceonline.com/media/english/ameProns/height.mp3) | ✅ [haɪt] | ❌ [heɪt] |
 | [hidden](https://www.ldoceonline.com/dictionary/hidden) [🔊](https://www.ldoceonline.com/media/english/ameProns/laadhidden.mp3) | ✅ ['hɪdn] | ❌ ['haɪdn] |
+| [idempotent](https://www.vocabulary.com/dictionary/idempotent) [🔊](https://www.youtube.com/watch?v=ndDclz-Gpl0&t=14s) | ✅ [ˈaɪdəmˈpoʊtnt] | |
 | [image](https://www.ldoceonline.com/dictionary/image) [🔊](https://www.ldoceonline.com/media/english/ameProns/image.mp3) | ✅ ['ɪmɪdʒ] | ❌ [ɪ'meɪdʒ] |
 | [integer](https://www.ldoceonline.com/dictionary/integer) [🔊](https://www.ldoceonline.com/media/english/ameProns/integer.mp3) | ✅ ['ɪntɪdʒə] | ❌ [ˈɪntaɪgə] |
 | [issue](https://www.ldoceonline.com/dictionary/issue) [🔊](https://www.ldoceonline.com/media/english/ameProns/issue1.mp3) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
@@ -103,7 +104,6 @@
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/pr/prometheus_en_us_1.mp3) | ✅ [pɹə ˈmiːθ ˌiː əs] | |
 | [Redux](https://redux.js.org/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/re/redux_en_us_1.mp3) | ✅ [ˈɹiːd ˌʌks] | |
 | [verbose](https://www.ldoceonline.com/dictionary/verbose) [🔊](https://www.ldoceonline.com/media/english/breProns/verbose0205.mp3) | ✅ [ˌvɜ˞ː ˈboʊs] | |
-
 
 ## Change Log:
 - `~ Latest`：持續更新工作上遇到之單字。
