@@ -72,6 +72,7 @@
 | [null](https://www.ldoceonline.com/dictionary/null) [🔊](https://www.ldoceonline.com/media/english/ameProns/null.mp3) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | |
 | [phantom](https://www.ldoceonline.com/dictionary/phantom) [🔊](https://www.ldoceonline.com/media/english/ameProns/phantom.mp3) | ✅ ['fæntəm] | ❌ ['pæntəm] |
+| [portfolio](https://www.ldoceonline.com/dictionary/portfolio) [🔊](https://www.ldoceonline.com/media/english/ameProns/portfolio.mp3) | ✅ [ˌpɔːrtˈfoʊ.li.oʊ] | ❌ [ˌprɔˈfoʊ.li.oʊ] |
 | [parameter](https://www.ldoceonline.com/dictionary/parameter) [🔊](https://www.ldoceonline.com/media/english/ameProns/parameter.mp3) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | [putty](https://www.ldoceonline.com/dictionary/putty) [🔊](https://www.ldoceonline.com/media/english/ameProns/putty.mp3) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | [query](https://www.ldoceonline.com/dictionary/query) [🔊](https://www.ldoceonline.com/media/english/ameProns/query1.mp3) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
