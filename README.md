@@ -90,10 +90,12 @@
 | SQL [🔊](https://www.ldoceonline.com/media/english/ameProns/sequel.mp3) | ✅ [ˈsiːkwəl] | |
 | [sudo](https://www.linux.com/training-tutorials/linux-101-introduction-sudo/) | ✅ [ˈsuːd uː]| |
 | [suite](https://www.ldoceonline.com/dictionary/suite) [🔊](https://www.ldoceonline.com/media/english/ameProns/suite.mp3) | ✅ [swiːt] | ❌ [sjuːt] |
+| [svelte](https://www.ldoceonline.com/dictionary/svelte) [🔊](https://www.ldoceonline.com/media/english/ameProns/svelte.mp3) | ✅ [svelt] | ❌ [svaltɪ] |
 | [swagger](https://swagger.io/) [🔊](https://www.google.com/search?q=swagger+pronunciation) | ✅ [ˈswæg.ɚ] | ❌ [ˈswa.ɚ] |
 | [typical](https://www.ldoceonline.com/dictionary/typical) [🔊](https://www.ldoceonline.com/media/english/ameProns/typical.mp3) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu | ✅ [ˌuː ˈbuːt ˌuː] | ❌ [juː'bʊntʊ] |
 | [variable](https://www.ldoceonline.com/dictionary/vairable) [🔊](https://www.ldoceonline.com/media/english/ameProns/l3variable.mp3) | ✅ ['veəriəbl] | ❌ [və'raiəbl] |
+| [vite](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E6%B3%95%E8%AA%9E-%E8%8B%B1%E8%AA%9E/vite) [🔊](https://www.google.com/search?q=vite+%E7%99%BC%E9%9F%B3&sca_esv=b1ce1c954e88e9aa&sxsrf=ADLYWIKix3SpytJ6RmHy7TRwW7Lo-PuQuw%3A1732027324115&ei=vKM8Z8jcBpnX1e8P38z_6As&oq=vite+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXZpdGUgKgIIADIKECMYgAQYJxiKBTIEECMYJzIEECMYJzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI0oYCUIz4AViV-QFwA3gAkAEAmAE9oAFpqgEBMrgBAcgBAPgBAZgCBaACesICBxAjGLADGCfCAgcQABiwAxgewgILEAAYgAQYsAMYogTCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogSYAwCIBgGQBgaSBwE1oAeiCw&sclient=gws-wiz-serp#fpstate=ive&vld=cid:44db8c01,vid:1UiMMoqau1o,st:0) | ✅ [vit] | ❌ [vait] |
 | [vue](https://vuejs.org/guide/introduction.html#what-is-vue) [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [ˈvjuː] | ❌ [v'ju:i] |
 | [width](https://www.ldoceonline.com/dictionary/width) [🔊](https://www.ldoceonline.com/media/english/ameProns/width.mp3) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | [wrapper](https://www.ldoceonline.com/dictionary/wrapper) [🔊](https://www.ldoceonline.com/media/english/ameProns/wrapper.mp3) | ✅ [ˈræp.ɚ] | ❌ [ˈrap.ɚ] |
