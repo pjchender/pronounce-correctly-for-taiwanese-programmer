@@ -107,6 +107,7 @@
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/pr/prometheus_en_us_1.mp3) | ✅ [pɹə ˈmiːθ ˌiː əs] | |
 | [Redux](https://redux.js.org/) [🔊](https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/re/redux_en_us_1.mp3) | ✅ [ˈɹiːd ˌʌks] | |
 | [verbose](https://www.ldoceonline.com/dictionary/verbose) [🔊](https://www.ldoceonline.com/media/english/breProns/verbose0205.mp3) | ✅ [ˌvɜ˞ː ˈboʊs] | |
+| [YAML](https://yaml.org/) [🔊](https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/En-us-YAML.oga/En-us-YAML.oga.mp3) | ✅ [ˈjæməl] | |
 
 ## Change Log:
 - `~ Latest`：持續更新工作上遇到之單字。
